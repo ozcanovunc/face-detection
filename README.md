@@ -1,5 +1,5 @@
 # face-detection
-Face detection using [face-api.js](https://github.com/justadudewhohacks/face-api.js) in browswer
+Face detection using [face-api.js](https://github.com/justadudewhohacks/face-api.js) in browser
 
 ## Development
 
